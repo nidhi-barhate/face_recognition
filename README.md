@@ -8,3 +8,7 @@
 ### Execution for showing face recognition
 
 To run the code, type `python3 face_recognition.py`
+
+<img src="https://github.com/nidz125/face_recognition/blob/master/output/Jusin%20Bieber.jpg">
+
+<img src="https://github.com/nidz125/face_recognition/blob/master/output/Sean%20Maher.jpg">
